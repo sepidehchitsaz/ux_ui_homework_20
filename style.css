@@ -93,13 +93,19 @@
     font-size: 24px;
 }
 
-.beforeAfter img{
+.box .imgBx{
     margin-top: 200px;
     margin-left: 200px;
-    padding-right: 50px;
+   
 }
 
-.beforeAfter img .after{
+.box .content{
+    font-family: lora;
+    font-size: 24px;
+    margin-left: 800px;
+    margin-right: 100px;
     margin-top: 100px;
 }
+
+
 
