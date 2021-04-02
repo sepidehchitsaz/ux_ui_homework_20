@@ -93,18 +93,29 @@
     font-size: 24px;
 }
 
+.box{
+    display: flex;
+    margin-top: 200px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 150px;
+}
+
+.
 .box .imgBx{
     margin-top: 200px;
     margin-left: 200px;
+    vertical-align: middle;
    
 }
 
 .box .content{
     font-family: lora;
-    font-size: 24px;
-    margin-left: 800px;
+    font-size: 24px; 
     margin-right: 100px;
     margin-top: 100px;
+     padding-left: 100px;
+     
 }
 
 
