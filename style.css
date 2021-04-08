@@ -120,3 +120,112 @@
 
 
 
+.footer {
+    font-size: 18px;
+    font-family: oswald;
+    margin: 20px;
+    margin-top: 200px;
+    
+    
+
+}
+
+@media screen and (max-width:600px) {
+    .footer {
+        margin-top: 900px;
+        
+    }
+}
+
+.email {
+    height: 60px;
+    width: 45px;
+    margin: 5px;
+    position: relative;
+    bottom: 107px;
+    float: left;
+    margin-left: 650px;
+}
+
+@media screen and (max-width:600px) {
+    .email{
+      margin-left: 150px;
+        
+    }
+}
+
+.facebook {
+    height: 45px;
+    margin: 5px;
+    position: relative;
+    bottom: 100px;
+    float: left;
+    
+}
+
+@media screen and (max-width:600px) {
+    .facebook{
+     
+        
+    }
+}
+
+.linkedin {
+    height: 45px;
+    margin: 5px;
+    position: relative;
+    bottom: 100px;
+    float: left;
+}
+
+@media screen and (max-width:600px) {
+    .linkedin {
+        
+
+    }
+}
+
+.copyright {
+    height: 35px;
+    margin-top: 35px;
+    padding-left: 425px;
+    
+}
+
+@media screen and (max-width:600px) {
+    .copyright {
+        height: 30px;
+        padding-left: 250px;
+        margin-top: 3px;
+        
+        
+
+    }
+}
+
+
+
+h6 {
+    font-family: oswald;
+    font-size: 24px;
+    float: right;
+    margin-right: 20px;
+    font-weight: 100;
+    color: #C9AA8B; 
+    line-height: 4;
+    
+
+}
+
+@media screen and (max-width:600px) {
+    h6 {
+        font-size: 18px;
+        margin-top: 0px;
+        padding-top: 0px;
+    
+    }
+}
+
+
+
+
