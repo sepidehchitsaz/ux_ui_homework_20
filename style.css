@@ -333,7 +333,7 @@ h6 {
 }
 #before {
     float: left;
-    margin-left: 100px;
+    margin-left: 220px;
     background-color: #122227;
     border-radius: 20px 20px;
 }
@@ -350,7 +350,7 @@ h6 {
 
 }
 #before img{
-    width: 600px;
+    width: 450px;
     height: 350px;
     margin-bottom: 80px;
     
@@ -359,7 +359,7 @@ h6 {
 
 #after {
     float: right;
-    margin-right: 100px;
+    margin-right: 220px;
     background-color: #122227;
     border-radius: 20px 20px;
     
@@ -377,7 +377,7 @@ h6 {
 
 }
 #after img{
-    width: 600px;
+    width: 450px;
     height: 350px;
     margin-bottom: 80px;
    
