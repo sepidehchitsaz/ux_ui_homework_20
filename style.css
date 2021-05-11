@@ -81,39 +81,41 @@
 .title h1{
     text-align: center;
     font-family: lora;
-    font-size: 48px;
-    margin: 100px;
+    font-size: 36px;
+    margin-top: 100px;
     font-weight: bold;
+    margin-bottom: 50px;
     
 }
 
 .intro p{
     font-family: lora;
     text-align: left;
-     margin-left: 100px;
-    margin-right: 100px; 
+     margin-left: 50px;
+    margin-right: 50px; 
     margin-bottom: 50px;
-    font-size: 24px;
+    font-size: 18px;
+
     
 }
 
 .role h2{
     font-family: lora;
     text-align: center;
-    font-size: 20px;
+    font-size: 16px;
     
 }
 
 .main img{
-    margin-top: 100px;
-    width: 800px;
-    margin-left: 400px;
+    margin-top: 50px;
+    width: 600px;
+    margin-left: 500px;
 }
 
 .carousel-item img{
     width: 1000px;  
     height: 700px;
-    padding-top: 100px;
+    padding-top: 150px;
     margin-left: 270px;
     
 }
@@ -134,8 +136,8 @@
 .titleTwo h1{
     text-align:left;
     font-family: lora;
-    font-size: 36px;
-    margin: 100px;
+    font-size: 24px;
+    margin: 50px;
     font-weight: bold;
 
 }
@@ -143,17 +145,17 @@
 .titleTwo p{
     font-family: lora;
     text-align: left;
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-bottom: 100px;
-    font-size: 24px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    font-size: 18px;
 }
 
 .lowhigh h1{
     text-align:left;
     font-family: lora;
-    font-size: 36px;
-    margin: 100px;
+    font-size: 24px;
+    margin: 50px;
     font-weight: bold;
 
 
@@ -162,12 +164,12 @@
 
 .lowhigh p{
     font-family: lora;
-    font-size: 24px;
-    margin-top: 100px;
+    font-size: 18px;
+    margin-top: 50px;
     margin-bottom: 50px;
     text-align: left;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
 
 }
 
@@ -181,8 +183,8 @@
 
 .beforeafter p{
     font-family: lora;
-    font-size: 24px;
-    margin-top: 100px;
+    font-size: 18px;
+    margin-top: 50px;
     margin-bottom: 50px;
     text-align: left;
     margin-left: 50px;
@@ -338,7 +340,7 @@ h6 {
 
 #before h4{
     font-family: lora;
-    font-size: 32px;
+    font-size: 24px;
     color: #C9AA8B;
     font-weight: 600;
     margin-left: 20px;
@@ -366,7 +368,7 @@ h6 {
 
 #after h4{
     font-family: lora;
-    font-size: 32px;
+    font-size: 24px;
     color: #C9AA8B;
     font-weight: 600;
     margin-left: 20px;
@@ -388,8 +390,8 @@ h6 {
 .key h1{
     text-align:left;
     font-family: lora;
-    font-size: 36px;
-    margin: 100px;
+    font-size: 24px;
+    margin: 50px;
     font-weight: bold;
 
 
@@ -398,12 +400,12 @@ h6 {
 
 .key p{
     font-family: lora;
-    font-size: 24px;
-    margin-top: 100px;
+    font-size: 18px;
+    margin-top: 50px;
     margin-bottom: 50px;
     text-align: left;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
 
 }
 
@@ -438,7 +440,7 @@ h6 {
 .footer {
     font-size: 18px;
     font-family: oswald;
-    margin-top: 200px;
+    margin-top: 100px;
     background-color: #122227;
     height: 200px;
     
