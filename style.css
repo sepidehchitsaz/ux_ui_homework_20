@@ -30,8 +30,10 @@
     font-size: 36px;
     font-family: satisfy;
     margin-left: 30px;
-    
+    font-weight: 300;
 }
+
+
 
 .navbar-dark .navbar-brand:hover{
     color:#79C4CD;
@@ -45,8 +47,7 @@
     font-size: 24px;
     color: #C9AA8B;
     padding-right: 30px;
-    font-weight: 500;
-   
+  
     
     
     
