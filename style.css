@@ -33,6 +33,11 @@
     font-weight: 300;
 }
 
+@media screen and (max-width:600px) {
+    .navbar-dark .navbar-brand {
+        font-size: 24px;
+    }
+}
 
 
 .navbar-dark .navbar-brand:hover{
@@ -89,15 +94,30 @@
     
 }
 
+@media screen and (max-width:600px){
+    .title h1 {
+        font-size: 24px;
+        margin-top: 50px;
+    }
+}
+
 .intro p{
     font-family: lora;
     text-align: left;
-     margin-left: 50px;
+    margin-left: 50px;
     margin-right: 50px; 
     margin-bottom: 50px;
     font-size: 18px;
 
     
+}
+
+@media screen and (max-width:600px){
+    .intro p{
+        font-size: 14px;
+        margin-left: 30px;
+    }
+
 }
 
 .role h2{
@@ -107,11 +127,24 @@
     
 }
 
+@media screen and (max-width:600px){
+    .role h2{
+        font-size: 12px;
+    }
+}
+
 .main img{
     margin-top: 50px;
     width: 600px;
     margin-left: 500px;
     
+}
+
+@media screen and (max-width:600px){
+    .main img {
+        width: 250px;
+        margin-left: 120px;
+    }
 }
 
 .carousel-item img{
@@ -122,6 +155,14 @@
     
 }
 
+@media screen and (max-width:600px){
+    .carousel-item img{
+        width: 300px;
+        height: 250px;
+        margin-left: 50px;
+        padding-top: 50px;
+    }
+}
 
 
 
@@ -133,9 +174,16 @@
 
 }
 
+@media screen and (max-width:600px){
+    .carousel-inner{
+        height: 300px;
+    }
+}
+
 .carousel-indicators li{
     margin-top: 100px;
 }
+
 
 .titleTwo h1{
     text-align:left;
@@ -144,6 +192,13 @@
     margin: 50px;
     font-weight: bold;
 
+}
+
+@media screen and (max-width:600px){
+    .titleTwo h1{
+        font-size: 18px;
+        margin-left: 30px;
+    }
 }
 
 .titleTwo p{
@@ -155,6 +210,14 @@
     font-size: 18px;
 }
 
+@media screen and (max-width:600px){
+    .titleTwo p{
+        font-size: 14px;
+        margin-left: 30px;
+        margin-top: 20px;
+    }
+}
+
 .lowhigh h1{
     text-align:left;
     font-family: lora;
@@ -163,6 +226,14 @@
     font-weight: bold;
 
 
+}
+
+@media screen and (max-width:600px){
+    .lowhigh h1{
+        font-size: 18px;
+        margin-left: 30px;
+        margin-bottom: 20px;
+    }
 }
 
 
@@ -177,12 +248,25 @@
 
 }
 
+@media screen and (max-width:600px){
+    .lowhigh p{font-size: 14px;
+        margin-left: 30px;
+        margin-top: 20px;
+    }
+}
+
 .lowhigh img{
     width: 1200px;
     margin-left: 170px;
     border-radius: 10px 10px 10px 10px;
 }
 
+@media screen and (max-width:600px){
+    .lowhigh img{
+        width: 400px;
+        margin-left: 30px;
+    }
+}
 
 
 .beforeafter p{
@@ -194,6 +278,13 @@
     margin-left: 50px;
     margin-right: 50px;
 
+}
+
+@media screen and (max-width:600px){
+    .beforeafter p{
+        font-size: 14px;
+        margin-left: 30px;
+    }
 }
 /* .box{
     display: flex;
@@ -342,6 +433,12 @@ h6 {
     border-radius: 20px 20px;
 }
 
+@media screen and (max-width:600px){
+    #before{
+        margin-left: 30px;
+    }
+}
+
 #before h4{
     font-family: lora;
     font-size: 24px;
@@ -359,6 +456,13 @@ h6 {
     margin-bottom: 80px;
     
 
+}
+
+@media screen and (max-width:600px){
+    #before img{
+        width: 200px;
+        height: 150px;
+    }
 }
 
 #after {
