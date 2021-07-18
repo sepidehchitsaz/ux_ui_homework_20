@@ -143,7 +143,7 @@
 @media screen and (max-width:600px){
     .main img {
         width: 250px;
-        margin-left: 90px;
+        margin-left: 70px;
     }
 }
 
@@ -177,6 +177,7 @@
 @media screen and (max-width:600px){
     .carousel-inner{
         height: 300px;
+        margin-top: 50px;
     }
 }
 
@@ -198,6 +199,7 @@
     .titleTwo h1{
         font-size: 18px;
         margin-left: 30px;
+        margin-bottom: 20px;
     }
 }
 
@@ -215,6 +217,7 @@
         font-size: 14px;
         margin-left: 30px;
         margin-top: 20px;
+        margin-bottom: 20px;
     }
 }
 
@@ -263,7 +266,7 @@
 
 @media screen and (max-width:600px){
     .lowhigh img{
-        width: 350px;
+        width: 300px;
         margin-left: 30px;
     }
 }
@@ -435,7 +438,7 @@ h6 {
 
 @media screen and (max-width:600px){
     #before{
-        margin-left: 70px;
+        margin-left: 90px;
     }
 }
 
@@ -486,6 +489,7 @@ h6 {
 @media screen and (max-width:600px){
     #after {
         margin-top: 20px;
+        margin-right: 100px;
     
     }
 }
