@@ -143,7 +143,7 @@
 @media screen and (max-width:600px){
     .main img {
         width: 250px;
-        margin-left: 120px;
+        margin-left: 90px;
     }
 }
 
@@ -159,7 +159,7 @@
     .carousel-item img{
         width: 300px;
         height: 250px;
-        margin-left: 50px;
+        margin-left: 40px;
         padding-top: 50px;
     }
 }
@@ -263,7 +263,7 @@
 
 @media screen and (max-width:600px){
     .lowhigh img{
-        width: 400px;
+        width: 350px;
         margin-left: 30px;
     }
 }
@@ -435,7 +435,7 @@ h6 {
 
 @media screen and (max-width:600px){
     #before{
-        margin-left: 30px;
+        margin-left: 70px;
     }
 }
 
@@ -450,6 +450,14 @@ h6 {
     
 
 }
+
+@media screen and (max-width:600px){
+    #before h4{
+        font-size: 18px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
 #before img{
     width: 450px;
     height: 350px;
@@ -461,7 +469,8 @@ h6 {
 @media screen and (max-width:600px){
     #before img{
         width: 200px;
-        height: 150px;
+        height: 200px;
+        margin-bottom: 40px;
     }
 }
 
@@ -474,6 +483,15 @@ h6 {
 
 }
 
+@media screen and (max-width:600px){
+    #after {
+        margin-top: 20px;
+    
+    }
+}
+
+
+
 #after h4{
     font-family: lora;
     font-size: 24px;
@@ -484,6 +502,14 @@ h6 {
     margin-bottom: 20px;
 
 }
+
+@media screen and (max-width:600px){
+    #after h4{
+        font-size: 18px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
 #after img{
     width: 450px;
     height: 350px;
@@ -491,9 +517,20 @@ h6 {
    
 }
 
+@media screen and (max-width:600px){
+    #after img{
+        width: 200px;
+        height: 200px;
+        margin-bottom: 40px;
+    }
+}
+
 .key{
     margin-top: 50px;
 }
+
+
+
 
 .key h1{
     text-align:left;
@@ -503,6 +540,15 @@ h6 {
     font-weight: bold;
 
 
+}
+
+@media screen and (max-width:600px){
+    .key h1{
+        font-size: 18px;
+        margin-left: 30px;
+        margin-bottom: 20px;
+
+    }
 }
 
 
@@ -517,9 +563,24 @@ h6 {
 
 }
 
+@media screen and (max-width:600px){
+    .key p{
+        font-size: 14px;
+        margin-top: 20px;
+        margin-left: 30px;
+        
+    }
+}
+
 .card {
     margin-top: 650px;
     
+}
+
+@media screen and (max-width:600px){
+    .card {
+        margin-top: 700px;
+    }
 }
 
 .card-header {
@@ -556,7 +617,7 @@ h6 {
 
 @media screen and (max-width:600px) {
     .footer {
-        margin-top: 700px;
+        margin-top: 50px;
         
     }
 }
